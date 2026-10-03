@@ -4,7 +4,7 @@ Course materials for an undergraduate course on the **management side of informa
 
 The course follows the structure of *Management of Information Security*, 6th edition, by Michael E. Whitman and Herbert J. Mattord (Cengage). All slides, diagrams, labs and case studies in this repository are original material. They contain no publisher slides or figures.
 
-> **Instructor:** _Your Name_ · **Institution:** _Your University_ · **Term:** _Fall 2026_
+> **Instructor:** Behnam Kiani ·  **Term:** _Fall 2026_
 
 ---
 
